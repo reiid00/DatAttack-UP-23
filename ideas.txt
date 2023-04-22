@@ -1,0 +1,6 @@
+Ideias
+
+* Calcular duracao de acordo com recursos dados
+* Calcular recursos necessarios para terminar numa certa duração
+* Calcular recursos necessarios de acordo com localizao e altura do ano (relacionar com a posicao geografica do genero spots perto partilham recursos)
+* Injetar dados 
