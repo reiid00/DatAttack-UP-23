@@ -33,7 +33,7 @@ We created regression and classification models to predict the number of people 
 
 ## Report
 
-For more information check the [Report.md](docs/Report.pdf)
+For more information check the [Report](docs/Report.pdf)
 
 
 ## Repository Contents
