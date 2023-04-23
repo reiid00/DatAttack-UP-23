@@ -1,6 +1,6 @@
-Ideias
+Ideas
 
-* Calcular duracao de acordo com recursos dados
-* Calcular recursos necessarios para terminar numa certa duração
-* Calcular recursos necessarios de acordo com localizao e altura do ano (relacionar com a posicao geografica do genero spots perto partilham recursos)
-* Injetar dados 
+* Calculate duration according to given resources
+* Calculate resources needed to finish in a certain duration
+* Calculate resources needed according to location and time of year (relate to geographical position of spot genre near share resources)
+* Inject data from other sources
