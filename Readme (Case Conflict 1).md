@@ -1,4 +1,4 @@
-# DatAtack-UP-23 -> Predicting Resources for Civil Protection Emergencies in Portugal
+# Predicting Resources for Civil Protection Emergencies in Portugal
 
 This project aims to predict the quantity of resources needed for every Civil Protection emergency based on the location, the nature of emergency, and time, in Portugal. We used data from 2016, retrieved from the publicly available data collected by The National Emergency and Civil Protection Authority.
 
